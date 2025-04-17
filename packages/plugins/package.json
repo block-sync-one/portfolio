@@ -1,6 +1,6 @@
 {
-  "name": "@sonarwatch/portfolio-plugins",
-  "version": "0.0.1",
+  "name": "@solanahub/portfolio-plugins",
+  "version": "0.0.2",
   "type": "commonjs",
   "types": "./src/index.d.ts",
   "peerDependencies": {

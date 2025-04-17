@@ -1,5 +1,5 @@
 {
-  "name": "@sonarwatch/portfolio-plugins",
+  "name": "@solanahub/portfolio-plugins",
   "version": "0.14.177",
   "type": "commonjs",
   "types": "./src/index.d.ts",

@@ -3,6 +3,7 @@ import * as armada from './services/armada';
 import * as atrix from './services/atrix';
 import * as aurory from './services/aurory';
 import * as banx from './services/banx';
+import * as bio from './services/bio';
 import * as bonkrewards from './services/bonkrewards';
 import * as bskt from './services/bskt';
 import * as debridge from './services/debridge';
@@ -18,10 +19,12 @@ import * as flash from './services/flash';
 import * as fragmetric from './services/fragmetric';
 import * as francium from './services/francium';
 import * as futarchy from './services/futarchy';
-import * as gpool from './services/gpool';
+import * as gpool from './services/oresupply';
 import * as grass from './services/grass';
 import * as helium from './services/helium';
+import * as huma from './services/huma';
 import * as hxro from './services/hxro';
+import * as hylo from './services/hylo';
 import * as jupiter from './services/jupiter';
 import * as kamino from './services/kamino';
 import * as lifinity from './services/lifinity';
@@ -66,7 +69,7 @@ export const services: Service[] = [
   atrix,
   aurory,
   banx,
-  banx,
+  bio,
   bonkrewards,
   bskt,
   debridge,
@@ -77,7 +80,6 @@ export const services: Service[] = [
   driftMMV,
   elemental,
   ensofi,
-  ensofi,
   exponent,
   flash,
   fragmetric,
@@ -86,7 +88,9 @@ export const services: Service[] = [
   gpool,
   grass,
   helium,
+  huma,
   hxro,
+  hylo,
   jupiter,
   kamino,
   lifinity,
